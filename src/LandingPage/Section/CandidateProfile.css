@@ -1,0 +1,18 @@
+.profileWrapper {
+    background-color: white;
+    width: 400px;
+    padding: 10px;
+}
+
+.status {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    p {
+        width: 150px;
+    }
+}
+
+.progress {
+    margin-top: 50px;
+}

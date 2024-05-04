@@ -1,0 +1,73 @@
+{
+    "candidates": [{
+            "name": "Emily Johnson",
+            "email": "emily.johnson@example.com",
+            "average_score_percentage": 88,
+            "scores": {
+                "behavioral": 9,
+                "communication": 8,
+                "situation_handling": 9
+            },
+            "about": "I am a detail-oriented and proactive individual with a background in human resources. I have a passion for fostering positive work environments and supporting employee growth and development.",
+            "experience": "With 6 years of experience in human resources, I have expertise in recruitment, employee relations, and performance management. I have successfully implemented strategies to enhance employee engagement and retention.",
+            "hobbies": ["Painting", "Cooking", "Running"],
+            "introduction": "Hello, I'm Emily Johnson. I bring a wealth of experience in human resources and a commitment to promoting a supportive and inclusive workplace culture. I'm excited about the opportunity to make a positive impact on your team."
+        },
+        {
+            "name": "Michael Brown",
+            "email": "michael.brown@example.com",
+            "average_score_percentage": 78,
+            "scores": {
+                "behavioral": 7,
+                "communication": 8,
+                "situation_handling": 8
+            },
+            "about": "I am a highly analytical and strategic thinker with a background in finance. I thrive in fast-paced environments and enjoy tackling complex financial challenges.",
+            "experience": "With 4 years of experience in finance, I have expertise in financial analysis, budgeting, and forecasting. I have a proven track record of driving financial efficiency and maximizing ROI.",
+            "hobbies": ["Playing basketball", "Traveling", "Watching documentaries"],
+            "introduction": "Hey there, I'm Michael Brown. I'm passionate about finance and dedicated to delivering results that drive business success. I'm eager to bring my analytical skills and financial expertise to your organization."
+        },
+        {
+            "name": "Sarah Wilson",
+            "email": "sarah.wilson@example.com",
+            "average_score_percentage": 48,
+            "scores": {
+                "behavioral": 10,
+                "communication": 9,
+                "situation_handling": 10
+            },
+            "about": "I am a highly motivated and creative individual with a background in graphic design. I have a keen eye for detail and a passion for creating visually compelling experiences.",
+            "experience": "With 8 years of experience in graphic design, I have worked with a diverse range of clients to deliver innovative design solutions across print, digital, and multimedia platforms. I am proficient in Adobe Creative Suite and stay abreast of industry trends.",
+            "hobbies": ["Photography", "Sketching", "Hiking"],
+            "introduction": "Hi, I'm Sarah Wilson. I'm deeply passionate about design and dedicated to pushing the boundaries of creativity. I'm thrilled about the opportunity to bring my design expertise to your team and contribute to impactful projects."
+        },
+        {
+            "name": "David Lee",
+            "email": "david.lee@example.com",
+            "average_score_percentage": 82,
+            "scores": {
+                "behavioral": 8,
+                "communication": 9,
+                "situation_handling": 7
+            },
+            "about": "I am a proactive and results-driven professional with a background in sales and customer relationship management. I thrive in fast-paced environments and excel at building strong rapport with clients.",
+            "experience": "With 5 years of experience in sales, I have a proven track record of exceeding targets and driving revenue growth. I am skilled in identifying client needs and delivering tailored solutions.",
+            "hobbies": ["Playing tennis", "Cooking", "Photography"],
+            "introduction": "Hello, I'm David Lee. I bring a wealth of experience in sales and a passion for building lasting client relationships. I'm excited about the opportunity to contribute to your team and drive business success."
+        },
+        {
+            "name": "Jessica Adams",
+            "email": "jessica.adams@example.com",
+            "average_score_percentage": 35,
+            "scores": {
+                "behavioral": 9,
+                "communication": 10,
+                "situation_handling": 9
+            },
+            "about": "I am a highly motivated and detail-oriented individual with a background in software development. I have a passion for writing clean and efficient code and enjoy solving complex technical challenges.",
+            "experience": "With 6 years of experience in software development, I have expertise in full-stack development, Agile methodologies, and DevOps practices. I have successfully delivered scalable and robust solutions to meet business objectives.",
+            "hobbies": ["Playing piano", "Reading", "Traveling"],
+            "introduction": "Hi there, I'm Jessica Adams. I'm passionate about software development and dedicated to delivering high-quality solutions that drive innovation. I'm eager to bring my technical skills and expertise to your organization."
+        }
+    ]
+}
