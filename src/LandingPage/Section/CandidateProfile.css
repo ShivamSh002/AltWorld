@@ -1,18 +1,85 @@
-.profileWrapper {
+.profileCard {
     background-color: white;
-    width: 400px;
+    width: max-content;
+    border-radius: 20px;
+    display: flex;
+    gap: 5px
+}
+
+.profileWrapper {
     padding: 10px;
+    width: 400px;
 }
 
 .status {
     display: flex;
     gap: 50px;
     align-items: center;
+    margin-bottom: -20px;
     p {
         width: 150px;
+        font-weight: bold;
+        opacity: 0.5;
     }
+}
+
+.user {
+    width: 70px;
 }
 
 .progress {
     margin-top: 50px;
+}
+
+.info {
+    display: flex;
+    gap: 10px;
+    img {
+        border-radius: 20px;
+    }
+}
+
+.userName {
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.email {
+    opacity: 0.5;
+}
+
+.desciption {
+    margin-top: 50px;
+    h2 {
+        margin-bottom: -10px;
+        opacity: 0.7;
+    }
+    p {
+        margin-bottom: 40px;
+        font-weight: 600;
+        opacity: 0.5;
+    }
+}
+
+.btn {
+    width: 250px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-inline: 17%;
+    margin-bottom: 40px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #22b8a7;
+    cursor: pointer;
+}
+
+.percentage {
+    margin-left: 120px;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(48, 215, 48);
+    margin-top: 20px;
 }

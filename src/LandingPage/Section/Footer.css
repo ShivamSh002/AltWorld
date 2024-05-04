@@ -1,0 +1,14 @@
+.footerWrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    align-items: baseline;
+    opacity: 0.2;
+    font-weight: bold;
+}
+
+.content {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}

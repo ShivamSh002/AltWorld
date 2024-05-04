@@ -2,6 +2,7 @@
         background-color: white;
         border-radius: 20px;
         padding: 10px;
+        height: 700px;
     }
     
     .headContent {
@@ -27,7 +28,7 @@
     }
     
     .active {
-        color: lightgreen;
+        color: rgb(48, 215, 48);
     }
     
     .description {
@@ -68,7 +69,7 @@
     }
     
     .tableHead {
-        width: 350px;
+        width: 380px;
     }
     
     thead {
@@ -99,4 +100,11 @@
     tr:hover {
         background-color: rgb(230, 230, 230);
         cursor: pointer;
+    }
+    
+    .parentWrapper {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        width: max-content;
     }

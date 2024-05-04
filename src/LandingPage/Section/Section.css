@@ -1,4 +1,13 @@
 .ComponentWrapper {
     display: flex;
-    gap: 15px;
+    gap: 50px;
+    flex-direction: column;
+}
+
+.heads {
+    opacity: 0.5;
+}
+
+.sectionWrapper {
+    font-weight: bold;
 }
